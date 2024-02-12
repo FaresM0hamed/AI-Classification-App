@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Classification Tensorflow</string>
+    <string name="requestPermissionBody">To enjoy this feature of the app, you must give us camera access permission from Settings</string>
+    <string name="potato_information">Potato Information</string>
+    <string name="potato_prognosis">Potato Prognosis</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload_an_image">Upload an image</string>
+    <string name="classification_app">Classification App</string>
+</resources>
